@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TinkoffHomeWork3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="new_fragment">new fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_number">Second number</string>
+    <string name="choose_operation">Choose operation</string>
+    <string name="sum">+</string>
+    <string name="div">/</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="back_to_first_number">1st number</string>
+    <string name="back_to_second_number">2nd number</string>
+    <string name="back_to_operations">operation</string>
+</resources>
